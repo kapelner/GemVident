@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="GemIdentImageSets/JPEGSet.java|GemIdentView/InitScreenTest.java|GemIdentCentroidFinding/ViaSegmentation/RegionGrowing.java" kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="itext-1.4.8.jar" sourcepath="C:/Program Files/Java/jdk1.6.0_10/src.zip"/>
+	<classpathentry kind="lib" path="mtj.jar"/>
+	<classpathentry kind="lib" path="fobs4jmf.jar"/>
+	<classpathentry kind="lib" path="jmf.jar"/>
+	<classpathentry kind="lib" path="jgrapht-jdk1.5.jar"/>
+	<classpathentry kind="lib" path="jai_codec.jar"/>
+	<classpathentry kind="lib" path="jai_core.jar"/>
+	<classpathentry kind="lib" path="mlibwrapper_jai.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
